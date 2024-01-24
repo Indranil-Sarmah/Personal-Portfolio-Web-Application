@@ -8,4 +8,4 @@ Welcome to my personal portfolio web application, a showcase of my skills, proje
 
 ## Getting Started
 
-To explore my portfolio, simply visit _______ Feel free to reach out through the contact form for any inquiries or collaborations.
+To explore my portfolio, simply visit _______ Feel free to reach out me for collaborations.
