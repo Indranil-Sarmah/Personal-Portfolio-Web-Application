@@ -8,6 +8,6 @@ Welcome to my personal portfolio web application, a showcase of my skills, proje
 - **TypeScript**: Enables static typing for a more robust codebase.
 - **Tailwind CSS**: Provides a utility-first CSS framework for styling.
 
-## Getting Started
+## Preview
 
 To explore my portfolio, simply visit _______ Feel free to reach out me for collaborations.
