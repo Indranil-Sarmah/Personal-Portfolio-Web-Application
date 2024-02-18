@@ -3,8 +3,10 @@ Welcome to my personal portfolio web application, a showcase of my skills, proje
 
 ## Technologies Used
 
-- **React.js:** The front-end of this web application is powered by React.js, a powerful and flexible JavaScript library for building user interfaces.
-- **Sanity.io:** The back-end of the portfolio is managed by Sanity.io, a headless CMS (Content Management System) that empowers me to easily organize and update the content of my portfolio.
+- **Next.js**: Utilizes server-side rendering for improved performance and SEO.
+- **Framer Motion**: Adds smooth animations and transitions.
+- **TypeScript**: Enables static typing for a more robust codebase.
+- **Tailwind CSS**: Provides a utility-first CSS framework for styling.
 
 ## Getting Started
 
